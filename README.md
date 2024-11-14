@@ -1,7 +1,3 @@
-Here's a structured README template for your ShadiBanao - Wedding Planning Platform project:
-
----
-
 # ShadiBanao - Wedding Planning Platform
 
 🚀 **Project Overview**  
