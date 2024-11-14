@@ -33,7 +33,7 @@ The project is organized into two main directories:
    Clone the project from GitHub:
 
    ```bash
-   git clone https://github.com/yourusername/wedding-platform.git
+   git clone https://github.com/SmartMLLabs-1/Shaadibanavo.git
    ```
 
 2. **Frontend Installation**  
@@ -87,8 +87,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 For more details, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **Project Repository**: [GitHub Link](https://github.com/yourusername/wedding-platform)
+- **Email**: [rohit@smartmllabs.com](mailto:rohit@smartmllabs.com)
+- **Project Repository**: [GitHub Link](https://github.com/SmartMLLabs-1/Shaadibanavo)
 
 ---
 
